@@ -1,3 +1,5 @@
+GAME RULES
+
 1) You must use PyCharm.
 2) You must upload every files
 3) And when you playing game use arrow keys for movement of the ship.
